@@ -8,3 +8,5 @@ npm uninstall -g json-server
 npm install -g json-server@0.17.4
 
 json-server --watch db.json
+
+live server
